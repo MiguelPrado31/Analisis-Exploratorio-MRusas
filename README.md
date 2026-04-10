@@ -1,18 +1,13 @@
-# Analisis Exploratorio de Datos: Montañas Rusas
-Análisis Exploratorio de Datos (EDA) de un dataset de Montañas Rusas con Python y JupyterNotebooks
-
-## 📌 Descripción General
-Este proyecto contiene un análisis exploratorio de datos (EDA) del conjunto de datos Montañas Rusas
-El objetivo es comprender la estructura de los datos, identificar patrones y generar insights iniciales que puedan servir para análisis más avanzados o modelos predictivos.
-
+# Analisis Exploratorio de Datos: Montañas Rusas 📈
+#### Análisis exploratorio de datos (EDA) del dataset Roller Coaster Database de Kaggle. Enfocado en examinar variables como altura, velocidad y ubicación de las montañas rusa, con el propósito de identificar tendencias y relaciones entre ellas.
 ---
 
-## 📊 Dataset
-- **Fuente:** Kaggle
-- **Tamaño:**  990 filas × 56 columnas 
+## 📊 Dataset:
+- **Fuente:** Kaggle - Roller Coaster Database 
+- **Tamaño:**  1087 filas × 56 columnas 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivos:
 - Realizar limpieza inicial de datos  
 - Explorar distribuciones de variables  
 - Identificar correlaciones entre variables  
@@ -21,20 +16,20 @@ El objetivo es comprender la estructura de los datos, identificar patrones y gen
 
 ---
 
-## 📂 Contenido del Notebook
-- Carga de datos  
-- Inspección inicial  
-- Limpieza de datos  
-- Análisis exploratorio   
-- Visualización a traves de graficos  
+## 📂 Contenido de la libreta Jupyter:
+1. Carga de datos y exploración inicial del dataset
+2. Preparar y limpiar datos
+3. Analizar Características (Features) 
+4. Relación entre variables mediante visualizaciones
+5. Resolver una pregunta con el dataset procesado
 
 ---
 
-## 🛠️ Herramientas y Librerías
+## 🛠️ Herramientas y Librerías:
 - Python  
 - Jupyter Notebook  
 - Pandas    
-- Matplotlib / Seaborn  
+- Matplotlib / Seaborn
 
 
 
